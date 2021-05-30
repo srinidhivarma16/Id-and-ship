@@ -1,0 +1,15 @@
+Start
+Declare variables t,n,i
+Declare an array Class ID
+Initilize the value of Class ID
+If the value of Class ID is B or b
+Print BattleShip
+Else If the value of Class ID is C or c
+Print Cruiser
+Else If the value of Class ID is D or d
+Print Destroyer
+Else If the value of Class ID is F or f
+Print Frigate
+Else 
+print Inavalid Input
+End
